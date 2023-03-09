@@ -15,4 +15,5 @@ p {
 }
 img {
   border: 2px ridge rgb(80,65,115);
+  box-shadow: 3px 7px rgb(18,18,31);
 }
