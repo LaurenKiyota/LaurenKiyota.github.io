@@ -8,7 +8,9 @@
       h1 {
         color: rgb(176,120,137);
       }
-      input {
+      .searchbox {
+        width: 350;
+      }
     </style>
   </head>
   <body>
@@ -16,7 +18,7 @@
     <form action="https://www.google.com/search" method="GET" target="_blank">
       <fieldset>
         <label for="searchbox">Search String</label>
-        <input type="text" name="q" id="searchbox">
+        <input type="text" name="q" id="searchbox" class="searchbox">
         <br>
         <label for="site">Select a site</label>
         <select name="as_sitesearch">
