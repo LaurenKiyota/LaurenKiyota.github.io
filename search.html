@@ -16,7 +16,7 @@
     <form action="https://www.google.com/search" method="GET" target="_blank">
       <fieldset>
         <label for="searchbox">Search String</label>
-        <input type="text" name="q" id="searchbox" class=".searchbox">
+        <input type="text" name="q" id="searchbox">
         <br>
         <label for="site">Select a site</label>
         <select name="as_sitesearch">
@@ -27,8 +27,13 @@
           <option value="britannica.com">Encyclopedia Britannica</option>
         </select>
         <br>
-        <label for="match1">Match words</label>
-        <input type="checkbox" name="as_epq" id="match1" value=".searchbox">
+        <select name="as_qdr" size="5" multiple>
+          <option value>Any Time</option>
+          <option value="d">Last 24 Hours</option>
+          <option value="w">Last Week</option>
+          <option value="m">Last Month</option>
+          <option value="y">Last Year</option>
+        </select>
         <br>
         <input type="submit" value="Search">
       </fieldset>
