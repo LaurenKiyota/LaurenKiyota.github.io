@@ -20,11 +20,6 @@
         <label for="searchbox">Search string</label>
         <input type="text" name="q" id="searchbox" class="searchbox">
         <br>
-        <label for="excude">Want to exclude any words?</label>
-        <input type="checkbox" name="as_eq" id="exclude" value="1">
-        <label for="excludewhat">Excluded words</label>
-        <input type="text" name="q" id="excludewhat">
-        <br>
         <label for="site">Select a site</label>
         <select name="as_sitesearch">
           <option value>General Search</option>
@@ -41,6 +36,16 @@
           <option value="w">Last Week</option>
           <option value="m">Last Month</option>
           <option value="y">Last Year</option>
+        </select>
+        <br>
+        <label for="type">Select search result type(s)</label>
+        <select name="tbm" size="1" multiple>
+          <option value>Any Type</option>
+          <option value="bks">Books</option>
+          <option value="isch">Images</option>
+          <option value="vid">Videos</option>
+          <option value="nws">News</option>
+          <option valu="shop">Shopping</option>
         </select>
         <br>
         <label for="checkwindow">Open in new tab</label>
