@@ -12,5 +12,8 @@ nav {
   border: 5px solid;
 }
 section {
-  border: double;
+  border: 2px double;
+}
+p {
+  font-size: 20px;
 }
