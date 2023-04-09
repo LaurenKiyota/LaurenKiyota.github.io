@@ -1,1 +1,16 @@
-
+body {
+  text-align: center;
+  font-family: "Times New Roman";
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 30px;
+}
+nav {
+  border: 5px solid;
+}
+section {
+  border: double;
+}
