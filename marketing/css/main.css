@@ -1,10 +1,8 @@
- @media screen and (max-width: 500px) {
-   .background-picture {
-     width: 360px;
-     margin-left: auto;
-     margin-right: auto;
-     height: 100%;
-   }
+@media screen and (max-width: 500px) {
+ .background-picture {
+  background-size: cover;
+  background-position: center;
+ }
 }
 body {
   background-image: url("bacs200_finalbackground.jpg") class="background-picture";
