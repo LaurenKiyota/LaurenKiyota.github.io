@@ -29,3 +29,9 @@ a:active {
   text-decoration: none;
   text-color: rgb(207,93,135);
 }
+.navbutton {
+  box-shadow: 1px 1px black;
+  padding: 1px;
+  background-color: rgb(168,94,133);
+  border-radius: 20px 20px 20px 20px;
+}
