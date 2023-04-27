@@ -9,7 +9,7 @@ nav {
 h1 {
   font-family: "Bradley Hand", "Papyrus", cursive;
   color: rgb(207,93,135);
-  font-size: 24pt;
+  font-size: 30pt;
   text-shadow: 2px 2px black;
   padding-right: 2px;
 }
@@ -31,7 +31,9 @@ a:active {
 }
 .navbutton {
   box-shadow: 1px 1px black;
-  padding: 1px;
+  font-family: "Verdana";
+  font-size: 12pt;
+  padding: 5px;
   background-color: rgb(168,94,133);
-  border-radius: 20px 20px 20px 20px;
+  border-radius: 10px 10px 10px 10px;
 }
