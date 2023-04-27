@@ -4,10 +4,5 @@ body {
 h1 {
   font-family: "Bradley Hand", "Papyrus", cursive;
   color: rgb(207,93,135);
-  border-top: 2px groove rgb(92,50,66);
-  border-left: 2px groove rgb(92,50,66);
-  border-bottom: 2px groove rgb(92,50,66);
-  border-right: 2px groove rgb(92,50,66);
-  box-shadow: 2px 4px black;
   padding: 2px;
 }
