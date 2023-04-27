@@ -9,6 +9,7 @@ nav {
 h1 {
   font-family: "Bradley Hand", "Papyrus", cursive;
   color: rgb(207,93,135);
+  font-size: 16pt;
   padding-right: 2px;
 }
 a:link {
