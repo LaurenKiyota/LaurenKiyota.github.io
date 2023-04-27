@@ -2,7 +2,8 @@ body {
   background-image: url("bacs200_finalbackground.jpg")
 }
 h1 {
-  font-family: "Bradley Hand", cursive;
+  font-family: "Bradley Hand", "Papyrus", cursive;
   color: rgb(207,93,135);
   border-style: 3px groove rgb(92,50,66);
+  box-shadow: 2px 4px black;
 }
