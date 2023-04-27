@@ -4,7 +4,7 @@ body {
 nav {
   border: 3px groove rgb(92,50,66);
   box-shadow: 2px 2px black;
-  padding: 2px;
+  padding: 10px;
 }
 h1 {
   font-family: "Bradley Hand", "Papyrus", cursive;
@@ -12,6 +12,7 @@ h1 {
   font-size: 30pt;
   text-shadow: 2px 2px black;
   padding-right: 2px;
+  padding-left: 4px;
 }
 a:link {
   text-decoration: none;
