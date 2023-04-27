@@ -9,14 +9,17 @@ nav {
 h1 {
   font-family: "Bradley Hand", "Papyrus", cursive;
   color: rgb(207,93,135);
-  font-size: 16pt;
+  font-size: 24pt;
+  text-shadow: 2px 2px black;
   padding-right: 2px;
 }
 a:link {
   text-decoration: none;
+  color: none;
 }
 a:visited {
   text-decoration: none;
+  color: none;
 }
 a:hover {
   text-decoration: none;
