@@ -32,8 +32,8 @@ a:active {
 .navbutton {
   box-shadow: 1px 1px black;
   font-family: "Verdana";
-  font-size: 12pt;
-  padding: 5px;
+  font-size: 14pt;
+  padding: 10px;
   background-color: rgb(168,94,133);
   border-radius: 10px 10px 10px 10px;
 }
