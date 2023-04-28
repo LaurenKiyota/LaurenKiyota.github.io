@@ -43,3 +43,9 @@ h2 {
   color: rgb(136,77,145);
   font-family: "Verdana";
 }
+div {
+  background-color: white;
+  opacity: 0.2;
+  margin-left: 10px;
+  margin-right: 10px;
+}
