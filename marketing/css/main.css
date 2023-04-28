@@ -1,5 +1,10 @@
-body {
+div.background {
   background-image: url("bacs200_finalbackground.jpg")
+}
+div.transbox {
+  margin: 30px;
+  background-color: white;
+  opacity: 0.5;
 }
 nav {
   border: 3px groove rgb(92,50,66);
@@ -42,9 +47,4 @@ h2 {
   font-size: 25pt;
   color: rgb(136,77,145);
   font-family: "Verdana";
-}
-div {
-  background-color: rgba(255,255,255,0.5);
-  margin-left: 10px;
-  margin-right: 10px;
 }
