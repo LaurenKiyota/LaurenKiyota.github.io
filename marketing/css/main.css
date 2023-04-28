@@ -38,3 +38,13 @@ a:active {
   background-color: rgb(168,94,133);
   border-radius: 10px 10px 10px 10px;
 }
+h2 {
+  font-size: 25pt;
+  color: rgb(136,77,145);
+  font-family: "Verdana";
+}
+#vendor {
+  font-size: 25pt;
+  color: rgb(82,77,145);
+  font-family: "Verdana";
+}
