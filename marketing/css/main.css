@@ -60,3 +60,9 @@ section {
   border: 2px inset rgb(136,77,145);
   font-weight: bold;
 }
+#block {
+  background-color: rgb(136,77,145);
+  color: white;
+  border: 1px solid white;
+  font-weight: bold;
+}
