@@ -15,7 +15,7 @@ nav {
 h1 {
   font-family: "Bradley Hand", "Papyrus", cursive;
   color: rgb(207,93,135);
-  font-size: 30pt;
+  font-size: 40pt;
   text-shadow: 2px 2px black;
   padding-right: 2px;
   padding-left: 4px;
@@ -57,12 +57,15 @@ p {
 section {
   font-size: 16pt;
   color: rgb(92,82,128);
+  font-family: "Verdana";
   border: 2px inset rgb(136,77,145);
   font-weight: bold;
 }
 #block {
   background-color: rgb(136,77,145);
   color: white;
+  font-size: 18pt;
+  font-family: "Verdana";
   border: 1px solid white;
   font-weight: bold;
 }
