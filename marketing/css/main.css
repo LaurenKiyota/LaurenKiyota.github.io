@@ -57,3 +57,8 @@ p {
   color: rgb(61,47,105);
   font-family: "Verdana";
 }
+span {
+  font-size: 16pt;
+  color: rgb(108,99,133);
+  border: 2px inset rgb(136,77,145);
+}
