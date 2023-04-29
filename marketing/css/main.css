@@ -86,6 +86,8 @@ section {
     box-shadow: none;
     background-color: none;
     border-radius: none;
+    width: 100%;
+    text-align: center;
   }
   div-background {
     margin: 0px;
