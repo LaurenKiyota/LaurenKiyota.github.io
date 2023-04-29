@@ -81,11 +81,7 @@ section {
   nav {
     display: block;
   }
-  .nav-button {
-    padding: 1px;
-    box-shadow: none;
-    background-color: none;
-    border-radius: none;
+  .navbutton {
     width: 100%;
     text-align: center;
   }
@@ -97,6 +93,6 @@ section {
     margin: 0px;
   }
   .video-responsive {
-    width: 230px;
+    width: 240px;
   }
 }
