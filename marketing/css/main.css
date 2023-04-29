@@ -78,4 +78,13 @@ section {
   }
 }
 @media screen and (max-width: 500px) {
+  nav {
+    display: block;
+  }
+  div-background {
+    margin: 0px;
+  }
+  div-transbox {
+    margin: 0px;
+  }
 }
