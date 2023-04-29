@@ -84,6 +84,7 @@ section {
   .navbutton {
     width: 100%;
     text-align: center;
+    display: block;
   }
   div-background {
     margin: 0px;
