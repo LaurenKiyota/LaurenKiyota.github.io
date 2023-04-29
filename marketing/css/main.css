@@ -62,8 +62,8 @@ section {
   font-weight: bold;
 }
 #block {
-  background-color: rgb(136,77,145);
-  color: white;
+  background-color: rgb(168,94,133);
+  font-color: white;
   font-size: 18pt;
   font-family: "Verdana";
   border: 1px solid white;
