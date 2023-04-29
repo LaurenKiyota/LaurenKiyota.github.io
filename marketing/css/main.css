@@ -88,4 +88,7 @@ section {
   div-transbox {
     margin: 0px;
   }
+  .video-responsive {
+    width: 300px;
+  }
 }
