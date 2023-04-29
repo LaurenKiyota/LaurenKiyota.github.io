@@ -53,3 +53,10 @@ h2 {
   color: rgb(136,77,145);
   font-family: "Verdana";
 }
+.vendorapp {
+  box-shadow: 1px 1px black;
+  font-family: "Verdana";
+  font-size: 14pt;
+  background-color: rgb(168,94,133);
+  border-radius: 10px 10px 10px 10px;
+}
