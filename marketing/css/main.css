@@ -63,9 +63,17 @@ section {
 }
 #block {
   background-color: rgb(168,94,133);
-  font-color: white;
-  font-size: 18pt;
-  font-family: "Verdana";
   border: 1px solid white;
-  font-weight: bold;
+  h2 {
+    font-color: white;
+    font-size: 18pt;
+    font-weight: bold;
+    font-family: "Verdana";
+  }
+  p {
+    font-color: white;
+    font-size: 18pt;
+    font-family: "Verdana";
+    font-weight: bold;
+  }
 }
